@@ -2,7 +2,7 @@
 
 <h1>CIASTO MAŚLANKOWE Z OWOCAMI I KRUSZONKĄ</h1>
 <h3>SKŁADNIKI</h3>
-<h4>skłądniki suche</h4>
+<h4>składniki suche</h4>
 <ul>
 <li>3 szklanki mąki pszennej</li>
 <li>3 płaskie łyżeczki proszku do pieczenia</li>
@@ -10,7 +10,7 @@
  <li>1 op. cukru wanilinowego</li>
 </ul>
 
-<h4>skłądniki mokre</h4>
+<h4>składniki mokre</h4>
 <ul>
 <li>1 szklanka maślanki</li>
 <li>1/2 szklanki oleju roślinnego</li>

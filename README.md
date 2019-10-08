@@ -1,20 +1,4 @@
 # Przepis-na-Ciasto
-<!DOCTYPE html>
-<html>
- <head>
-<style>
-    body {background-color: #ffffe6;}
-    h1 {color: red;}
-    
-  </style>
-
-  <title>Page Title</title>
-</head>
-
-<body>
-
-
-
 <h1>CIASTO MAŚLANKOWE Z OWOCAMI I KRUSZONKĄ</h1>
 <h3>SKŁADNIKI</h3>
 <h4>składniki suche</h4>
@@ -46,6 +30,3 @@ W kolejnej misce umieścić składniki kruszonki: mąkę, cukier oraz pokrojone 
 Do mokrych składników wsypać suche i krótko oraz wolno wymieszać łyżką, tylko do połączenia się składników. Wyłożyć do formy, na wierzch wyłożyć owoce i posypać kruszonką. Wstawić do piekarnika i piec przez ok. 50 minut do suchego patyczka.
 Nie otwierać piekarnika przed upływem 45 minut, chyba, że ciasto pieczemy w znacznie większej formie, wówczas może być gotowe trochę wcześniej.
 
-</body>
-
-</html>
